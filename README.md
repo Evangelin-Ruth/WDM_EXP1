@@ -62,11 +62,9 @@ overcast,80.0,90.0,false,no
   
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/202dc16c-8ba4-4755-89ed-723a8bcc1073)
 
-
 * Training Data Set-> Weather Table
 
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/5fbc2c6b-d2f2-4179-8101-375e6215e1bf)
-
 
 ### PREPROCESSING
 ### Procedure:
