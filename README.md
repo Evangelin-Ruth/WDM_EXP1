@@ -57,10 +57,14 @@ overcast,80.0,90.0,false,no
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-Training Data Set -> Employee Table
+
+* Training Data Set -> Employee Table
+  
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/202dc16c-8ba4-4755-89ed-723a8bcc1073)
 
-Training Data Set-> Weather Table
+
+* Training Data Set-> Weather Table
+
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/5fbc2c6b-d2f2-4179-8101-375e6215e1bf)
 
 
@@ -83,10 +87,13 @@ Training Data Set-> Weather Table
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-Employee Table after adding new attribute ADDRESS
+
+* Employee Table after adding new attribute ADDRESS:
+
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/b1d26f1f-9ba3-45e7-92c3-30649bca2d53)
 
-Weather Table after adding new attribute CLIMATE:
+* Weather Table after adding new attribute CLIMATE:
+
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/fce36e7a-9fc3-41e4-9840-9d974d3a2ca7)
 
 
@@ -105,11 +112,12 @@ Weather Table after adding new attribute CLIMATE:
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-Employee Table after removing attributes SALARY, GENDER:
+* Employee Table after removing attributes SALARY, GENDER:
 
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/a7fb4c64-7c00-4c5e-b9d6-543d677f1709)
 
-Weather Table after removing attributes WINDY, PLAY:
+* Weather Table after removing attributes WINDY, PLAY:
+
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/c75e874d-ad97-4b14-a66f-2cd158b7a37e)
 
 
@@ -128,11 +136,15 @@ Weather Table after removing attributes WINDY, PLAY:
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-Employee Table after Normalizing ID, EXP, PHONE:
-![Uploading image.png…]()
+* Employee Table after Normalizing ID, EXP, PHONE:
+  
+![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/ea92c780-a78b-4bef-a008-7d681429631a)
 
-Weather Table after Normalizing TEMPARATURE, HUMIDITY:
-![Uploading image.png…]()
+* Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+
+  
+  ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/0a554a57-8a62-403b-8c38-f68e3fda6b7e)
+
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
