@@ -106,6 +106,7 @@ Weather Table after adding new attribute CLIMATE:
 
 ### OUTPUT:
 Employee Table after removing attributes SALARY, GENDER:
+
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/a7fb4c64-7c00-4c5e-b9d6-543d677f1709)
 
 Weather Table after removing attributes WINDY, PLAY:
