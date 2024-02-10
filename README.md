@@ -58,10 +58,10 @@ overcast,80.0,90.0,false,no
 
 ### OUTPUT:
 Training Data Set -> Employee Table
-![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/4b07f6ed-2e12-4dd3-95ab-409081134c1a)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/202dc16c-8ba4-4755-89ed-723a8bcc1073)
 
 Training Data Set-> Weather Table
-![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/3ad7e723-0746-491d-84b0-44ca6714d088)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/5fbc2c6b-d2f2-4179-8101-375e6215e1bf)
 
 
 ### PREPROCESSING
@@ -84,10 +84,10 @@ Training Data Set-> Weather Table
 
 ### OUTPUT:
 Employee Table after adding new attribute ADDRESS
-![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/fc611f37-947f-4b10-95cf-d4ba0940d036)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/b1d26f1f-9ba3-45e7-92c3-30649bca2d53)
 
 Weather Table after adding new attribute CLIMATE:
-![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/d04a47f3-7d3b-4d33-b480-53bdb7b06e30)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/fce36e7a-9fc3-41e4-9840-9d974d3a2ca7)
 
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -106,10 +106,10 @@ Weather Table after adding new attribute CLIMATE:
 
 ### OUTPUT:
 Employee Table after removing attributes SALARY, GENDER:
-![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/299b8dd3-150b-4231-b59d-0c5eb9aa74b8)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/a7fb4c64-7c00-4c5e-b9d6-543d677f1709)
 
 Weather Table after removing attributes WINDY, PLAY:
-![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/ffda1842-b7e3-47f9-af3b-6742c6ee8765)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/c75e874d-ad97-4b14-a66f-2cd158b7a37e)
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -128,10 +128,10 @@ Weather Table after removing attributes WINDY, PLAY:
 
 ### OUTPUT:
 Employee Table after Normalizing ID, EXP, PHONE:
-![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/8ce89a08-4933-41f8-b191-34a2e87cbac6)
+![Uploading image.png…]()
 
 Weather Table after Normalizing TEMPARATURE, HUMIDITY:
-![image](https://github.com/Evangelin-Ruth/WDM_EXP1/assets/94219798/f0e0ddd2-5b73-4f95-b449-20f45166b03b)
+![Uploading image.png…]()
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
